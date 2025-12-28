@@ -1,4 +1,4 @@
-# CSV to Data Engineer Playbook: Heart Disease Analysis
+# CSV to Data Engineer Playbook: 🫀 🩺 Heart Disease Analysis
 
 ## Overview
 
